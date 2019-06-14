@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="bc1ce7a7-af73-401b-838a-840e195108c9" solutionId="bc1ce7a7-af73-401b-838a-840e195108c9" resetWebServer="false" sharePointProductVersion="16.0" name="JsomRestBlake" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="5c65c0f2-c9a8-495e-9b01-b648fe5f291b" />
+  </projectItems>
+</package>
